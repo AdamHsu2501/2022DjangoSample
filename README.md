@@ -5,11 +5,17 @@
 ## Activate env
 
 ```
-env\scripts\activate
+$ env\scripts\activate
+```
+
+## Install
+
+```
+$ pip install -r requirements.txt
 ```
 
 ## Run Server
 
 ```
-python manage.py runserver
+$ python manage.py runserver
 ```
